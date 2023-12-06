@@ -8,6 +8,7 @@
   height: auto;
   z-index: -1;
 }
+
 .main-div {
   display: flex;
   margin-left: 8em;
